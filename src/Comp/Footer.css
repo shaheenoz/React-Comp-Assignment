@@ -1,0 +1,12 @@
+footer{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(113, 174, 174);
+    display: flex;
+    justify-content: center;
+    height: 53px;
+}
+p{
+    font-size: 15px;
+}

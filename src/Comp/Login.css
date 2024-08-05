@@ -1,0 +1,15 @@
+.Login{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    gap: 12px;
+    padding: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    height: 237px;
+}
+.headLogin{
+    text-align: center;
+    color: rgb(58, 110, 110);
+}
+
